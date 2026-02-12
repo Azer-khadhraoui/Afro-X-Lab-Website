@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import logo from "@/images/logo.jpg";
+import logo from "@/images/logo.png";
 
 import { ButtonLink } from "@/components/Button";
 import { Container } from "@/components/Container";
@@ -35,9 +35,9 @@ export function SiteHeader() {
               <Image
                 src={logo}
                 alt="Logo Afro X Lab"
-                width={34}
-                height={34}
-                className="h-[34px] w-[34px] rounded-xl border border-foreground/10 object-cover"
+                width={144}
+                height={30}
+                className="h-auto w-[144px] rounded-lg border border-foreground/10 object-contain"
                 priority
               />
             </span>

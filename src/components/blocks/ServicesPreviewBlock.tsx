@@ -64,16 +64,16 @@ export function ServicesPreviewBlock({ title, subtitle }: Props) {
 
           <div className="grid gap-4 sm:grid-cols-2 lg:col-span-8 lg:grid-cols-3">
             <ServiceCard
-              title="Branding & identité"
-              description="Positionnement, identité visuelle et direction artistique pour une marque claire et premium."
+              title="Stratégie Digitale"
+              description="Nous analysons votre marché, vos concurrents et vos objectifs pour créer une stratégie digitale sur mesure qui guide vos actions en ligne et maximise votre ROI."
             />
             <ServiceCard
-              title="Sites ultra-rapides"
-              description="Next.js + Tailwind pour des pages SEO-friendly, performantes et simples à maintenir."
+              title="Sites Web Performants"
+              description="Création de sites modernes, rapides et optimisés SEO — vitrines ou e‑commerce, solutions adaptées aux besoins des entreprises africaines."
             />
             <ServiceCard
-              title="Contenu & conversion"
-              description="Structure, messages clés et CTA pour transformer la visite en prise de contact."
+              title="Gestion des Réseaux Sociaux"
+              description="Création, planification et publication de contenu engageant, gestion de communauté et analyse des performances pour amplifier votre visibilité."
             />
           </div>
         </div>

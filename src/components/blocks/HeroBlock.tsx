@@ -47,11 +47,11 @@ export function HeroBlock({ headline, subheadline }: Props) {
                 className="pointer-events-none absolute -left-6 -top-6 h-24 w-24 rounded-full bg-blue-600/20 blur-2xl"
                 aria-hidden="true"
               />
-              <ButtonLink href="/contact" variant="primary">
-                Parler de votre projet
+              <ButtonLink href="/#services" variant="primary">
+                En Savoir Plus
               </ButtonLink>
-              <ButtonLink href="/services" variant="secondary">
-                Voir les services
+              <ButtonLink href="/contact" variant="secondary">
+                Nous contacter
               </ButtonLink>
             </div>
 

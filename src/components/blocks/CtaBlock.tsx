@@ -21,7 +21,7 @@ export function CtaBlock({ title, subtitle }: Props) {
 
             <div className="mt-7 flex flex-col gap-3 sm:flex-row sm:items-center">
               <ButtonLink href="/contact" variant="primary">
-                Demander un devis
+                Découvrez comment tirer parti de notre accompagnement 360°
               </ButtonLink>
               <ButtonLink href="/realisations" variant="secondary">
                 Voir des projets
