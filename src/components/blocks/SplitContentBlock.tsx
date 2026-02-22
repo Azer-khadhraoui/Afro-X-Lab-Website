@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image, { type StaticImageData } from "next/image";
 import { ButtonLink } from "@/components/Button";
 import { Container } from "@/components/Container";
 import defaultImg from "@/images/Image-5.jpg";
